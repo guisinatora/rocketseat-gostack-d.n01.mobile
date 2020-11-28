@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
   repositoryContainer: {
     marginBottom: 15,
     marginHorizontal: 15,
-    backgroundColor: "#fff",
+    backgroundColor: "#ffe",
     padding: 20,
   },
   repository: {
